@@ -1,10 +1,9 @@
-{    
+"users" : {    
   "id": 1,
   "fname": "Ismael",
   "lname": "Coulibaly",
   "email": "ismaelcoulibal@gmail.com",
-  "imageURL":
-    "https://static.wikia.nocookie.net/marvel-cinematic/images/3/32/Steve_Rogers_2.jpg",
+  "imageURL": "https://static.wikia.nocookie.net/marvel-cinematic/images/3/32/Steve_Rogers_2.jpg",
   "password": "Ismael2022",
   "dob": "June 13 1981",
   "address": {
