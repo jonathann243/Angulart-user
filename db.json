@@ -1,5 +1,6 @@
 {"users":[
-    {    "id":1,
+    {    
+        "id":1,
         "fname": "Ismael",
         "lname": "Coulibaly",
         "email": "ismaelcoulibal@gmail.com",
@@ -19,7 +20,8 @@
         "isclient": false,
         "isBarber": true
       },
-      {  "id":2,
+      {  
+        "id":2,
         "fname": "Josue",
         "lname": "Lubaki",
         "imageURL":
@@ -39,7 +41,8 @@
         "isclient": true,
         "isBarber": false
       },
-      { "id":3,
+      { 
+        "id":3,
         "fname": "Jonathan",
         "lname": "Kanyinda",
         "email": "jonathankanyinda@gmail.com",
