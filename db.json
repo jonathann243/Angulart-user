@@ -1,4 +1,4 @@
-
+[
     {
         "fname": "Ismael",
         "lname": "Coulibaly",
@@ -59,4 +59,4 @@
         "isclient": true,
         "isBarber": false
       }
-  
+  ]
