@@ -1,4 +1,4 @@
-[
+{
   {    
     "id": 1,
     "fname": "Ismael",
@@ -62,4 +62,4 @@
     "isclient": true,
     "isBarber": false
   }
-]
+}
